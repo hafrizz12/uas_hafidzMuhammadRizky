@@ -1,0 +1,30 @@
+[
+    {
+        "product_id": 1,
+        "name": "UGreen USB 3.0 KVM Switch",
+        "stock_id": 1,
+        "sold": 0,
+        "image": [
+            "https://www.macitynet.it/wp-content/uploads/2020/09/ugreen-4-porte-usb-3-0-kvm-switch.jpg"
+        ],
+        "price": 35,
+        "discount": 0,
+        "category": "Electronics",
+        "description": "UGREEN USB 3.0 Switch 2-to-1 is an excellent choice to share 2 USB devices between 2 systems, It's ideal for sharing a printer or scanner in a small office environment. It's also great for use at home if you have multiple PCs or Macs.",
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "name": "UGreen USB 2.0 KVM Switch",
+        "stock_id": 2,
+        "sold": 0,
+        "image": [
+            "https://www.macitynet.it/wp-content/uploads/2020/09/ugreen-4-porte-usb-3-0-kvm-switch.jpg"
+        ],
+        "price": 510,
+        "discount": 0,
+        "category": "Electronics",
+        "description": "UGREEN USB 2.0 Switch 2-to-1 is an excellent choice to share 2 USB devices between 2 systems, It's ideal for sharing a printer or scanner in a small office environment. It's also great for use at home if you have multiple PCs or Macs.",
+        "rating": 4.3
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "stock_id": 1,
+        "product_id": 1,
+        "stock": 10,
+        "restock_cost": 50
+    },
+    {
+        "stock_id": 2,
+        "product_id": 2,
+        "stock": 10,
+        "restock_cost": 50
+    }
+]
